@@ -1,0 +1,65 @@
+{
+    "StationaryFlightAgent": {
+        "checkpoints": [
+            {
+                "steps": 128177,
+                "file_path": "results\\StationaryFlightAgent\\StationaryFlightAgent\\StationaryFlightAgent-128177.onnx",
+                "reward": 5.3402882644108365,
+                "creation_time": 1766862617.8297932,
+                "auxillary_file_paths": [
+                    "results\\StationaryFlightAgent\\StationaryFlightAgent\\StationaryFlightAgent-128177.pt"
+                ]
+            },
+            {
+                "steps": 200010,
+                "file_path": "results\\StationaryFlightAgent\\StationaryFlightAgent\\StationaryFlightAgent-200010.onnx",
+                "reward": 16.261336350440978,
+                "creation_time": 1766863200.107862,
+                "auxillary_file_paths": [
+                    "results\\StationaryFlightAgent\\StationaryFlightAgent\\StationaryFlightAgent-200010.pt"
+                ]
+            },
+            {
+                "steps": 300053,
+                "file_path": "results\\StationaryFlightAgent\\StationaryFlightAgent\\StationaryFlightAgent-300053.onnx",
+                "reward": 171.85702055692673,
+                "creation_time": 1766864953.0753496,
+                "auxillary_file_paths": [
+                    "results\\StationaryFlightAgent\\StationaryFlightAgent\\StationaryFlightAgent-300053.pt"
+                ]
+            },
+            {
+                "steps": 312631,
+                "file_path": "results\\StationaryFlightAgent\\StationaryFlightAgent\\StationaryFlightAgent-312631.onnx",
+                "reward": null,
+                "creation_time": 1766866050.1154416,
+                "auxillary_file_paths": [
+                    "results\\StationaryFlightAgent\\StationaryFlightAgent\\StationaryFlightAgent-312631.pt"
+                ]
+            },
+            {
+                "steps": 400001,
+                "file_path": "results\\StationaryFlightAgent\\StationaryFlightAgent\\StationaryFlightAgent-400001.onnx",
+                "reward": 223.2546021938324,
+                "creation_time": 1766866711.2509139,
+                "auxillary_file_paths": [
+                    "results\\StationaryFlightAgent\\StationaryFlightAgent\\StationaryFlightAgent-400001.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 400001,
+            "file_path": "results\\StationaryFlightAgent\\StationaryFlightAgent.onnx",
+            "reward": 223.2546021938324,
+            "creation_time": 1766866711.2509139,
+            "auxillary_file_paths": [
+                "results\\StationaryFlightAgent\\StationaryFlightAgent\\StationaryFlightAgent-400001.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.7.1+cu118"
+    }
+}
